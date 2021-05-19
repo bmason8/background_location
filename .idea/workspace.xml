@@ -22,17 +22,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="637d4c7a-6891-4fb3-9c72-34ad7702802c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/5.4/executionHistory/executionHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.4/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.4/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.4/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+    <list default="true" id="637d4c7a-6891-4fb3-9c72-34ad7702802c" name="Default Changelist" comment="Pulled in latest changes from background_location package. Had to comment out a couple of lines in pubspec.yaml to get rid of a couple of errors. Not sure this will work.">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614973820613</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Pulled in latest changes from background_location package. Had to comment out a couple of lines in pubspec.yaml to get rid of a couple of errors. Not sure this will work.">
+      <created>1621452404897</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1621452404897</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -132,17 +131,21 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Removed 'ACCESS_BACKGROUND_LOCATION' permission. Added 'android:foregroundServiceType=location' to the service." />
     <MESSAGE value="Trying to keep up to date with master but with 2 minor AndroidManifest file changes to prevent unwanted use of 'access_background_location' permission." />
-    <option name="LAST_COMMIT_MESSAGE" value="Trying to keep up to date with master but with 2 minor AndroidManifest file changes to prevent unwanted use of 'access_background_location' permission." />
+    <MESSAGE value="Pulled in latest changes from background_location package. Had to comment out a couple of lines in pubspec.yaml to get rid of a couple of errors. Not sure this will work." />
+    <option name="LAST_COMMIT_MESSAGE" value="Pulled in latest changes from background_location package. Had to comment out a couple of lines in pubspec.yaml to get rid of a couple of errors. Not sure this will work." />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-813" y="-1057" key="CommitChangelistDialog2" timestamp="1614973820431">
-      <screen x="-1184" y="-1057" width="1920" height="1057" />
+    <state x="-199" y="-1057" key="CommitChangelistDialog2" timestamp="1621454721773">
+      <screen x="-262" y="-1057" width="1920" height="1057" />
     </state>
     <state x="-813" y="-1057" key="CommitChangelistDialog2/0.23.1440.811/-1184.-1057.1920.1057/736.-1057.1920.1057@-1184.-1057.1920.1057" timestamp="1614973820431" />
-    <state x="-757" y="-868" key="Vcs.Push.Dialog.v2" timestamp="1614973824730">
-      <screen x="-1184" y="-1057" width="1920" height="1057" />
+    <state x="-199" y="-1057" key="CommitChangelistDialog2/0.23.1440.821/-262.-1057.1920.1057@-262.-1057.1920.1057" timestamp="1621454721773" />
+    <state x="47" y="23" key="CommitChangelistDialog2/0.23.1440.821@0.23.1440.821" timestamp="1621452404717" />
+    <state x="320" y="170" key="Vcs.Push.Dialog.v2" timestamp="1621452406663">
+      <screen x="0" y="23" width="1440" height="821" />
     </state>
     <state x="-757" y="-868" key="Vcs.Push.Dialog.v2/0.23.1440.811/-1184.-1057.1920.1057/736.-1057.1920.1057@-1184.-1057.1920.1057" timestamp="1614973824730" />
+    <state x="320" y="170" key="Vcs.Push.Dialog.v2/0.23.1440.821@0.23.1440.821" timestamp="1621452406663" />
     <state x="557" y="372" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1621451229812">
       <screen x="0" y="23" width="1440" height="821" />
     </state>
